@@ -1,7 +1,8 @@
 {
     "pages": [
         "pages/index/index",
-        "pages/canvas/canvas"
+        "pages/canvas/canvas",
+        "pages/swiper/swiper"
     ],
     "window": {
         "backgroundTextStyle": "light",
