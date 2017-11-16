@@ -1,2 +1,7 @@
-<!--pages/canvas/canvas.wxml-->
-<text>pages/canvas/canvas.wxml</text>
+<view>
+    <canvas style="width:100%;height:{{contentHeight}}px" canvas-id="myCanvas"></canvas>
+
+     <view class="edit-footer">
+        <button class="button-done" type="primary" bindtap="savePic">保存图片</button>
+    </view>
+</view>

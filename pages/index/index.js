@@ -1,5 +1,5 @@
 Page({
     bindCanvas: function () {
-        wx.navigateTo({ url: '.。/canvas/canvas' })
+        wx.navigateTo({ url: '../canvas/canvas' })
     }
 });

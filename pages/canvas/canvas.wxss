@@ -1,1 +1,15 @@
-/* pages/canvas/canvas.wxss */
+.edit-footer {
+    height: 60px;
+    margin-top: 20px;
+    padding-left: 40rpx;
+    padding-right: 40rpx;
+    background-color: back;
+    display: flex;
+    align-items: center;
+}
+
+.button-done {
+    width: 100%;
+    border-radius: 50rpx!important;
+    /*background: linear-gradient(to right, red , blue);*/
+}
