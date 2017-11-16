@@ -1,0 +1,5 @@
+<view class="">
+    <view class="section" bindtap="bindCanvas">
+        <text class="title">使用 canvas 生成图片并保存到手机相册</text>
+    </view>
+</view>
