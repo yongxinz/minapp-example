@@ -61,7 +61,6 @@ Page({
     },
 
     drawSquare: function (ctx, height) {
-        ctx.setFontSize(24);
         ctx.rect(0, 50, this.data.windowWidth, height);
         ctx.setFillStyle("#f5f6fd");
         ctx.fill()
@@ -82,8 +81,8 @@ Page({
     },
 
     createNewImg: function (lineNum) {
-        var that = this;
-        var ctx = wx.createCanvasContext('myCanvas');
+        let that = this;
+        let ctx = wx.createCanvasContext('myCanvas');
         let contentHeight = lineNum * that.data.lineHeight + 180;
         that.drawSquare(ctx, contentHeight);
         that.setData({ contentHeight: contentHeight });
