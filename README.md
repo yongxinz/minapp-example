@@ -1,6 +1,6 @@
 欢迎关注我的微信公众号 AlwaysBeta，更多精彩内容等你来。
 
-![](https://user-gold-cdn.xitu.io/2020/1/17/16fb0d4a31ae61a6?w=258&h=258&f=jpeg&s=20946)
+![](http://user-gold-cdn.xitu.io/2020/1/17/16fb0d4a31ae61a6?w=258&h=258&f=jpeg&s=20946)
 
 # wxAppDemo
 
